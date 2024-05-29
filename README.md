@@ -1,7 +1,6 @@
 # MovieLense_BigDataAnalysis - with Spark
 
 * Author: Farhana Alam
-* Class: CS535 Section 1
 * Semester: Fall 2023
 
 ## Overview
